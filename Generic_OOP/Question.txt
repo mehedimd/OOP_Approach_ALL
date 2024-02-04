@@ -1,0 +1,6 @@
+﻿1.Create a console application to print the behavior of an animal on a console screen. Application must be object oriented. Apply both the generic and type specific generic (generic with constraint) approach.                           
+a. Enum and Its Implementation– 03
+b. Principal of OOP – 12
+c. Generic Interface & it’s implementation – 10
+d. Generic and type specific generic approach – 10
+Total = 30

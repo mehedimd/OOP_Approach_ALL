@@ -1,0 +1,6 @@
+﻿ ### Create a console application on product. The application must have three classes: 
+	**Product,
+	**ProductCategory
+	**ProductModel. 
+	##Write a Language-Integrated Query to find out the product that has the same category and
+	model as in the ProductCategory and ProductModel classes. 

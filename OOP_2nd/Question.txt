@@ -1,0 +1,12 @@
+﻿1. Create C# console application to take and print the following –
+    Car information: Model No., Year Make, Number of Seat, Number of Gear, Number of Door, Engine Capacity in CC, Interior Design, Vehicle Type.
+    Motorcycle information: Model No., Year Make, Number of Gear, Starting Method, Engine Capacity in CC, Maximum Power in BPH, Maximum Torque in NM, Mileage in KMPL, Cooling, Front Brake, Rear Brake, Exterior Design, Vehicle Type.
+    Apply object approach of OOP.
+ 
+The application will follow the following instructions strictly:
+1.1 Principle of OOP must be followed/used to develop the application.			 
+1.2 TwoWheeler and FourWheeler must inherit Vehicle. Car must inherit FourWheeler and Motorcycle must inherit TwoWheeler. Vehicle cannot be instantiated. Car and Motorcycle cannot be inherited.						
+1.3 Interior and Exterior Design must be implemented. TwoWheeler will implement Exterior Design. FourWheeler will implement Interior Design. Interior and Exterior Designs are unlimited.						
+1.4 Enum will be used for Vehicle Type.							   
+1.5 Interface implementation – 								   
+     
